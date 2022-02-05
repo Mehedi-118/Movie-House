@@ -6,7 +6,6 @@ CSE3200 - Software Development V
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#Status)
-* [Team Members](#Team-Members)
 
 ## General info 
 Its a movie related website such as IMDB where user can watch movie details,can add to wishlist,can store what movies they had watched and can suggest friends.
@@ -43,9 +42,6 @@ After the prerequisites, clicking `run` on **Visual Studio** can run this projec
 ## Status 
 Project is recently developed with currently required and possible features.
 
-## Team Members
-* **Rejone E Rasul Hridoy**
-* **Mehedi Hasan Sami**
 
 
 
